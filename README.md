@@ -16,7 +16,7 @@
 ## 🚀 Interests
 
 - **Software Engineering**
-- **Artificial Intelligence & Machine Learning**
+- **AI & Machine Learning**
 - **Robotics**
 - **Computer Vision**
 
