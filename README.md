@@ -26,8 +26,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhuha2006/)
 
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-Thanks for stopping by! 🌟
