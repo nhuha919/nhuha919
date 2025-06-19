@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Nhu Ha! 👋
 
-<!--
-**nhuha919/nhuha919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student at Lehigh University**  
+📚 Major: Computer Science & Business
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- Aspiring software engineer with a passion for building impactful technology.
+- Curious about **AI/Machine Learning**, **Robotics**, and **Computer Vision**.
+- Always exploring new ideas at the intersection of business and tech.
+
+---
+
+## 🚀 Interests
+
+- **Software Engineering**
+- **Artificial Intelligence & Machine Learning**
+- **Robotics**
+- **Computer Vision**
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhuha2006/)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for stopping by! 🌟
