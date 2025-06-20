@@ -1,4 +1,4 @@
-# Hi there, I'm Nhu Ha! 👋
+# Hi, I'm Nhu Ha! 👋
 
 🎓 **Student at Lehigh University**  
 📚 Major: Computer Science & Business
@@ -7,9 +7,8 @@
 
 ## 👩‍💻 About Me
 
-- Aspiring software engineer with a passion for building impactful technology.
-- Curious about **AI/Machine Learning**, **Robotics**, and **Computer Vision**.
-- Always exploring new ideas at the intersection of business and tech.
+- Aspiring software engineer with a strong interest in AI & machine learning
+- Always learning and excited to grow through hands-on experience
 
 ---
 
