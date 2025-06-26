@@ -1,4 +1,4 @@
-# Hi, I'm Nhu Ha! 👋
+# Hi, I'm Nhu! 👋
 
 🎓 **Student at Lehigh University**  
 📚 Major: Computer Science & Business
